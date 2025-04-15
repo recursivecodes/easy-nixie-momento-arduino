@@ -1,0 +1,4 @@
+#define WIFI_SSID ""
+#define WIFI_PASS ""
+char tokenEndpoint[] = "";
+char momentoTopicEndpoint[] = "api.cache.cell-us-east-1-1.prod.a.momentohq.com";
